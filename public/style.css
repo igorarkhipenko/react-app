@@ -1,0 +1,23 @@
+body {
+  min-width: 500px;
+}
+
+.product-container {
+  min-width: 230px;
+}
+
+.product {
+  border: 1px black solid;
+  margin-top: 15px;
+  padding: 15px;
+}
+
+.price {
+  background-color: #fff3b5;
+  font-size: 25px;
+  padding: 5px;
+}
+
+.inStock {
+  font-size: 20px;
+}
